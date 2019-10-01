@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp2.1\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/197eb1a1-1678-40d0-ae8d-b9688ac7015a/resourceGroups/inhandhomepage/providers/Microsoft.Web/sites/inhand"
+}
