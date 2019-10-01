@@ -14,7 +14,7 @@ namespace inhand.Controllers
         {
             //return View();
             //return Redirect("https://inhand.azurewebsites.net/homepage/pages/home.html");
-            return Redirect("https://www.inhand.com/homepage/pages/home.html");
+            return Redirect("https://www.inhandplus.com/homepage/pages/home.html");
         }
 
         public IActionResult About()
